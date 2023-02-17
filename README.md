@@ -1,3 +1,5 @@
+Based on package from joshrainwater/active-users, add support for Laravel 10
+
 # A Laravel Package for easily retrieving a list of active users and guests that are currently online.
 
 This is a small, simple little package for seeing who's currently online.
